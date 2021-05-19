@@ -1,0 +1,57 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restoauth2account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "ConnectFasterInc"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "gitlab acc vm"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "auth_endpoint": {
+                "value": "https://gitlab.com/oauth/authorize"
+            },
+            "auth_endpoint_config": {
+                "value": []
+            },
+            "authorize": {
+                "value": null
+            },
+            "autoRefreshToken": {
+                "value": false
+            },
+            "client_id": {
+                "value": "21b31228c7da9c32f808c673a6f54635698d4f72dbd919864000b096dee1ce89"
+            },
+            "client_secret": {
+                "fp": "f7c9bca3cdb1d909994d00c87d300e1b5c16ef6881068c031269b72e8ba6d463",
+                "key": "account-cloud-managed-5592aed995315c0d2e1aaeeb-2015-06-30T14:59:59-654446",
+                "sym_iv": "gNT0CFkqwdAI6ShXkbjnVA==",
+                "sym_key": "iqN/+RFFD4JO82gXxoB7Mcq+Mf17JORM3kcOqtt5ekffVVaXY+j72qtcyVQWK8H657NFAKewNn0Hz2lmmbPrP7AFodVrQhmsmYN7N9XQma66pNPfn9rCnna7F5bOIzChz/KCel9tL8452RTYSdtE2xOfbbBum1NAzYMvMuntXHHEe+wUH9Zdu+eeSm2PlFhwk+x+PEnpIK+8sImHJSmGxFuMXNPwzq+sQB4J23aKqwnQtAERtnsSmE9cZHLPkp5AGmZVlAi/u8Di/0ucfaNRQJptVKQk1Mc66PrIU2b3scHpsyoLSbJzlDJWtSBfKaVIVM9U4AZ9A8Rk+izDdVaygA==",
+                "value": "NbJZsg+tIfyhGrYhZYjFFfSZcArL4UChI6fEZPKvrHH2vELpjtwLJfVbTsseCHkfl1pcRnQIli5cb/5q1CyhX0DphjkdMQ8Tc53IGYxxeP8="
+            },
+            "grant_type": {
+                "value": "authorization_code"
+            },
+            "headerAuth": {
+                "value": true
+            },
+            "refresh": {
+                "value": null
+            },
+            "token_endpoint": {
+                "value": "https://gitlab.com/oauth/token"
+            },
+            "token_endpoint_config": {
+                "value": []
+            }
+        },
+        "view_serial": 100
+    }
+}
